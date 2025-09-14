@@ -2,7 +2,7 @@
 A simple .bat script that lets you start and stop the SQL service in windows.
 
 # Warning
-This script wotks if the SQL service is named MySQL80 !!
+This script works if the SQL service is named MySQL80 !!
 
 # To do...
 - Make it work with difrently Named Services
